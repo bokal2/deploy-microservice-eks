@@ -1,0 +1,2 @@
+notes.txt
+docker pull richardchesterwood/k8s-fleetman-position-tracker:release3-no-websockets
